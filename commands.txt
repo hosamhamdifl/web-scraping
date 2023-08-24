@@ -8,6 +8,6 @@ scrapy startproject article_scraper
 scrapy genspider wikipedia en.wikipedia.org
 scrapy runspider wikipedia.py
 
-scrapy runspider wikipedia.py -o articles.csv
+scrapy runspider wikipedia.py -o articles.csv -t csv -s CLOSESPIDER_PAGECOUNT=10
 
 
