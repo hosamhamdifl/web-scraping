@@ -3,3 +3,11 @@ scrapy startproject ietf_scraper
 cd ietf_scraper/ietf/scraper/spiders/
 scrapy genspider ietf pythonscraping.com
 scrapy runspider ietf.py
+
+scrapy startproject article_scraper
+scrapy genspider wikipedia en.wikipedia.org
+scrapy runspider wikipedia.py
+
+scrapy runspider wikipedia.py -o articles.csv
+
+
