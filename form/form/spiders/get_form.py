@@ -5,7 +5,6 @@ def generate_start_urls():
     names = ['Alice', 'Bob', 'Charles']
     quests = ['to seek the grail', 'to learn Python', 'to scrape the web']
     return ['http://pythonscraping.com/linkedin/formAction.php?name={}&quest={}&color=blue'.format(name, quest.replace(' ', '%20')) for name in names for quest in quests]
-    return quests
 
 
 class GetFormSpider(scrapy.Spider):
