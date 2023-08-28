@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from scrapy.spiders import CrawlSpider, Rule, SitemapSpider
 from scrapy.linkextractors import LinkExtractor
-from sitemap_spider.items import NewsCrawlerItem
+from sitemap_spider.items import NewsArticle
 
 
 class CnnSpider(SitemapSpider):
@@ -10,7 +10,7 @@ class CnnSpider(SitemapSpider):
     sitemap_urls = ['https://www.cnn.com/sitemaps/article-2020-10.xml']
 
     def parse(self, response):
-        article = NewsCrawlerItem()
+        article = NewsArticle()
         # <script data-rh="true">
         article['url'] = response.url
         article['source'] = 'CNN'
