@@ -1,0 +1,2307 @@
+serial,id,link
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995454"" data-post-type-id=""1"" id=""question-summary-76995454"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995454/using-rspec-to-simulate-gets-in-user-input-ruby"">Using RSpec to simulate gets in user input - Ruby</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I would like to know how to simulate a gets in my Rspec code so the test is automated and the code does not ask for user input in the tests. Here is my class:
+require 'yaml'
+
+class Prices
+
+  def ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-ruby t-rspec"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'ruby'"" aria-labelledby=""tag-ruby-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ruby"" href=""/questions/tagged/ruby"" rel=""tag"" title=""show questions tagged 'ruby'"">ruby</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'rspec'"" aria-labelledby=""tag-rspec-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-rspec"" href=""/questions/tagged/rspec"" rel=""tag"" title=""show questions tagged 'rspec'"">rspec</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""18637016"" href=""/users/18637016/rodrigo-ladr%c3%b3n-de-guevara""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Rodrigo Ladrón de Guevara's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AATXAJyLAoHD2V6ogeMnxLwHtrEXcVrcEdoKac1aZDZ9=k-s32"" width=""16"">
+</img></div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/18637016/rodrigo-ladr%c3%b3n-de-guevara"">Rodrigo Ladrón de Guevara</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">146</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:05:57Z"">40 secs ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995454,Using RSpec to simulate gets in user input - Ruby
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995453"" data-post-type-id=""1"" id=""question-summary-76995453"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""2 views"">
+<span class=""s-post-summary--stats-item-number"">2</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995453/how-do-i-run-an-async-function-every-10-seconds-in-flutter-to-simulate-checking"">How do I run an async function every 10 seconds in Flutter to simulate checking the user's login state?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have a Flutter app that runs a stored procedure in SQL Server using the sql_conn package. This SP will return the login state of the user. If they are suddenly restricted from being logged in, I ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-android t-flutter t-dart t-sql-server-2019"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'android'"" aria-labelledby=""tag-android-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-android"" href=""/questions/tagged/android"" rel=""tag"" title=""show questions tagged 'android'"">android</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'flutter'"" aria-labelledby=""tag-flutter-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-flutter"" href=""/questions/tagged/flutter"" rel=""tag"" title=""show questions tagged 'flutter'"">flutter</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dart'"" aria-labelledby=""tag-dart-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dart"" href=""/questions/tagged/dart"" rel=""tag"" title=""show questions tagged 'dart'"">dart</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'sql-server-2019'"" aria-labelledby=""tag-sql-server-2019-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-sql-server-2019"" href=""/questions/tagged/sql-server-2019"" rel=""tag"" title=""show questions tagged 'sql-server-2019'"">sql-server-2019</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""5125921"" href=""/users/5125921/themortiestmorty""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""TheMortiestMorty's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/4dd95823b59068de346de3b4082007d0?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/5125921/themortiestmorty"">TheMortiestMorty</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">417</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:05:53Z"">43 secs ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995453,How do I run an async function every 10 seconds in Flutter to simulate checking the user's login state?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995451"" data-post-type-id=""1"" id=""question-summary-76995451"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""2 views"">
+<span class=""s-post-summary--stats-item-number"">2</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995451/auth0-custom-social-for-google-fails-with-invalid-user-id"">Auth0 ""Custom Social"" for Google fails with ""Invalid user id.""</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I setup Auth0 and Google credentials and had it working using the free trial period within Auth0. this is for a side-project so I need to switch to the free tier ""Custom Social"" Auth0 logins....
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-oauth t-auth0 t-google-identity"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'oauth'"" aria-labelledby=""tag-oauth-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-oauth"" href=""/questions/tagged/oauth"" rel=""tag"" title=""show questions tagged 'oauth'"">oauth</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'auth0'"" aria-labelledby=""tag-auth0-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-auth0"" href=""/questions/tagged/auth0"" rel=""tag"" title=""show questions tagged 'auth0'"">auth0</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'google-identity'"" aria-labelledby=""tag-google-identity-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-google-identity"" href=""/questions/tagged/google-identity"" rel=""tag"" title=""show questions tagged 'google-identity'"">google-identity</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""14019"" href=""/users/14019/adam-straughan""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Adam Straughan's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/5e4654adc0a8cf62d437e014fd9f8435?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/14019/adam-straughan"">Adam Straughan</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">2,756</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:05:18Z"">1 min ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995451,"Auth0 ""Custom Social"" for Google fails with ""Invalid user id."""
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995448"" data-post-type-id=""1"" id=""question-summary-76995448"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995448/use-perf-to-see-if-im-write-bound"">Use perf to see if I'm write bound?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have a loop that's running slower than I expected. I measure how long it takes per collection it processes and notice it takes twice as long when I use 8 cores (overall 4x faster). There's no data ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-c t-linux t-assembly t-x86-64 t-perf"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'c'"" aria-labelledby=""tag-c-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-c"" href=""/questions/tagged/c"" rel=""tag"" title=""show questions tagged 'c'"">c</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'linux'"" aria-labelledby=""tag-linux-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-linux"" href=""/questions/tagged/linux"" rel=""tag"" title=""show questions tagged 'linux'"">linux</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'assembly'"" aria-labelledby=""tag-assembly-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-assembly"" href=""/questions/tagged/assembly"" rel=""tag"" title=""show questions tagged 'assembly'"">assembly</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'x86-64'"" aria-labelledby=""tag-x86-64-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-x86-64"" href=""/questions/tagged/x86-64"" rel=""tag"" title=""show questions tagged 'x86-64'"">x86-64</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'perf'"" aria-labelledby=""tag-perf-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-perf"" href=""/questions/tagged/perf"" rel=""tag"" title=""show questions tagged 'perf'"">perf</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461382"" href=""/users/22461382/david""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""David's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/5a68d18737c5344308b702f6330f1b5a?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461382/david"">David</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:04:15Z"">2 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995448,Use perf to see if I'm write bound?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995446"" data-post-type-id=""1"" id=""question-summary-76995446"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995446/react-js-spotify-api-request-failed-with-status-code-400"">React js spotify api request failed with status code 400</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm trying to pull some data using react js, axios and the spotify api. When the user logs in, an access token is grabbed through the url, but whenever I try to grab data through one of the api's ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-reactjs t-api t-axios t-spotify-app"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'reactjs'"" aria-labelledby=""tag-reactjs-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-reactjs"" href=""/questions/tagged/reactjs"" rel=""tag"" title=""show questions tagged 'reactjs'"">reactjs</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'api'"" aria-labelledby=""tag-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-api"" href=""/questions/tagged/api"" rel=""tag"" title=""show questions tagged 'api'"">api</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'axios'"" aria-labelledby=""tag-axios-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-axios"" href=""/questions/tagged/axios"" rel=""tag"" title=""show questions tagged 'axios'"">axios</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'spotify-app'"" aria-labelledby=""tag-spotify-app-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-spotify-app"" href=""/questions/tagged/spotify-app"" rel=""tag"" title=""show questions tagged 'spotify-app'"">spotify-app</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""21915657"" href=""/users/21915657/chaima""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""chaima's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/p0JYr.jpg?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/21915657/chaima"">chaima</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:04:01Z"">2 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995446,React js spotify api request failed with status code 400
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995445"" data-post-type-id=""1"" id=""question-summary-76995445"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995445/spotify-app-works-on-my-computer-but-not-on-others"">Spotify App works on my computer but not on others</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I created an app where I fetch data from the Spotify API and use it to make a playlist. The app works perfectly on my computer but on other devices I have a problem. When other people have to log into ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-api t-redirect t-localhost t-uri t-spotify"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'api'"" aria-labelledby=""tag-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-api"" href=""/questions/tagged/api"" rel=""tag"" title=""show questions tagged 'api'"">api</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'redirect'"" aria-labelledby=""tag-redirect-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-redirect"" href=""/questions/tagged/redirect"" rel=""tag"" title=""show questions tagged 'redirect'"">redirect</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'localhost'"" aria-labelledby=""tag-localhost-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-localhost"" href=""/questions/tagged/localhost"" rel=""tag"" title=""show questions tagged 'localhost'"">localhost</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'uri'"" aria-labelledby=""tag-uri-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-uri"" href=""/questions/tagged/uri"" rel=""tag"" title=""show questions tagged 'uri'"">uri</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'spotify'"" aria-labelledby=""tag-spotify-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-spotify"" href=""/questions/tagged/spotify"" rel=""tag"" title=""show questions tagged 'spotify'"">spotify</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""21658401"" href=""/users/21658401/shimmyshimmyya7347""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""shimmyshimmyya7347's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/a86b77daf5280265a1de473d14ac9574?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/21658401/shimmyshimmyya7347"">shimmyshimmyya7347</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">9</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:03:59Z"">2 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995445,Spotify App works on my computer but not on others
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995444"" data-post-type-id=""1"" id=""question-summary-76995444"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of -1"">
+<span class=""s-post-summary--stats-item-number"">-1</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""9 views"">
+<span class=""s-post-summary--stats-item-number"">9</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995444/how-can-relation-multi-subdomain-websites-with-separated-databases"">How can relation multi-subdomain websites with separated databases?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I development multi subdomain website with separated databases with sso, like as:
+
+www.example.com (corporate web &amp; shop) - www_db
+
+blog.example.com - blog_db
+
+forum.example.com - forum_db
+
+...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-go t-microservices t-saml t-multisite t-multi-database"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'go'"" aria-labelledby=""tag-go-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-go"" href=""/questions/tagged/go"" rel=""tag"" title=""show questions tagged 'go'"">go</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'microservices'"" aria-labelledby=""tag-microservices-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-microservices"" href=""/questions/tagged/microservices"" rel=""tag"" title=""show questions tagged 'microservices'"">microservices</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'saml'"" aria-labelledby=""tag-saml-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-saml"" href=""/questions/tagged/saml"" rel=""tag"" title=""show questions tagged 'saml'"">saml</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'multisite'"" aria-labelledby=""tag-multisite-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-multisite"" href=""/questions/tagged/multisite"" rel=""tag"" title=""show questions tagged 'multisite'"">multisite</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'multi-database'"" aria-labelledby=""tag-multi-database-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-multi-database"" href=""/questions/tagged/multi-database"" rel=""tag"" title=""show questions tagged 'multi-database'"">multi-database</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""7986653"" href=""/users/7986653/cardinal""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Cardinal's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/spUN3.png?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/7986653/cardinal"">Cardinal</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:03:57Z"">2 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995444,How can relation multi-subdomain websites with separated databases?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995439"" data-post-type-id=""1"" id=""question-summary-76995439"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""8 views"">
+<span class=""s-post-summary--stats-item-number"">8</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995439/unable-to-install-the-outlook-add-in-manifest-with-mobileformfactor"">Unable to install the Outlook Add-in Manifest with MobileFormFactor</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                Getting error ""An internal server error occurred. The operation failed., Object reference not set to an instance of an object."" when installing manifest.
+Without VersionOverridesV1_0 ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-office-js t-outlook-addin t-office-addins t-outlook-web-addins t-officedev"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'office-js'"" aria-labelledby=""tag-office-js-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-office-js"" href=""/questions/tagged/office-js"" rel=""tag"" title=""show questions tagged 'office-js'"">office-js</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'outlook-addin'"" aria-labelledby=""tag-outlook-addin-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-outlook-addin"" href=""/questions/tagged/outlook-addin"" rel=""tag"" title=""show questions tagged 'outlook-addin'"">outlook-addin</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'office-addins'"" aria-labelledby=""tag-office-addins-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-office-addins"" href=""/questions/tagged/office-addins"" rel=""tag"" title=""show questions tagged 'office-addins'"">office-addins</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'outlook-web-addins'"" aria-labelledby=""tag-outlook-web-addins-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-outlook-web-addins"" href=""/questions/tagged/outlook-web-addins"" rel=""tag"" title=""show questions tagged 'outlook-web-addins'"">outlook-web-addins</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'officedev'"" aria-labelledby=""tag-officedev-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-officedev"" href=""/questions/tagged/officedev"" rel=""tag"" title=""show questions tagged 'officedev'"">officedev</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""219703"" href=""/users/219703/nemisj""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""nemisj's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/UHI0I.jpg?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/219703/nemisj"">nemisj</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score 11,562"">11.6k</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:03:14Z"">3 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995439,Unable to install the Outlook Add-in Manifest with MobileFormFactor
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995438"" data-post-type-id=""1"" id=""question-summary-76995438"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""9 views"">
+<span class=""s-post-summary--stats-item-number"">9</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995438/jquery-ternary-operator-does-not-execute-logic-the-proper-way"">JQuery ternary operator does not execute logic the proper way</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I want to have dynamic rendering button with 2 styles based on isAssigned variable:
+if isAssigned is false i want button to look like this
+&lt;button class=""btn btn-success-outlined"" data-...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-javascript t-jquery t-button t-razor"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'javascript'"" aria-labelledby=""tag-javascript-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-javascript"" href=""/questions/tagged/javascript"" rel=""tag"" title=""show questions tagged 'javascript'"">javascript</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'jquery'"" aria-labelledby=""tag-jquery-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-jquery"" href=""/questions/tagged/jquery"" rel=""tag"" title=""show questions tagged 'jquery'"">jquery</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'button'"" aria-labelledby=""tag-button-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-button"" href=""/questions/tagged/button"" rel=""tag"" title=""show questions tagged 'button'"">button</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'razor'"" aria-labelledby=""tag-razor-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-razor"" href=""/questions/tagged/razor"" rel=""tag"" title=""show questions tagged 'razor'"">razor</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""20716890"" href=""/users/20716890/luhm%c3%bfpickle""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""luhmÿpickle's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/2d6ea93bbecba57cfd653656969a4096?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/20716890/luhm%c3%bfpickle"">luhmÿpickle</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:03:09Z"">3 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995438,JQuery ternary operator does not execute logic the proper way
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995436"" data-post-type-id=""1"" id=""question-summary-76995436"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995436/module-jax-has-no-attribute-xla-in-alphafold2-colab"">module 'jax' has no attribute 'xla' in Alphafold2 colab</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm trying to use Alphafold2 and keep getting these errors:
+AttributeError                            Traceback (most recent call last)
+ in &lt;cell line: 55&gt;()
+58     runner = cf_af....
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python-3ûx t-jax"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python-3.x'"" aria-labelledby=""tag-python-3.x-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python-3ûx"" href=""/questions/tagged/python-3.x"" rel=""tag"" title=""show questions tagged 'python-3.x'"">python-3.x</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'jax'"" aria-labelledby=""tag-jax-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-jax"" href=""/questions/tagged/jax"" rel=""tag"" title=""show questions tagged 'jax'"">jax</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461336"" href=""/users/22461336/jfslet""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""jfslet's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/e00abddb231efda8677279381e393180?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461336/jfslet"">jfslet</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:02:47Z"">3 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995436,module 'jax' has no attribute 'xla' in Alphafold2 colab
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995433"" data-post-type-id=""1"" id=""question-summary-76995433"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""8 views"">
+<span class=""s-post-summary--stats-item-number"">8</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995433/tiktoken-importerror"">Tiktoken ImportError</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I havent even done anything other than install tiktoken, create a python file and try import tiktoken and I am recieving this ImportError. Can someone please offer a simple beginner level response to ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python t-openai-api"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python'"" aria-labelledby=""tag-python-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python"" href=""/questions/tagged/python"" rel=""tag"" title=""show questions tagged 'python'"">python</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'openai-api'"" aria-labelledby=""tag-openai-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-openai-api"" href=""/questions/tagged/openai-api"" rel=""tag"" title=""show questions tagged 'openai-api'"">openai-api</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""20824946"" href=""/users/20824946/joshua-lazar""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Joshua Lazar's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AEdFTp6wrPqZuqSSed6Y5ngvAm-zpJWYXLcxlq7e_JYt=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/20824946/joshua-lazar"">Joshua Lazar</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:02:30Z"">4 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995433,Tiktoken ImportError
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995432"" data-post-type-id=""1"" id=""question-summary-76995432"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995432/automatic-publicpath-is-not-supported-in-this-browser-js-engine-hermes"">Automatic publicPath is not supported in this browser, js engine: hermes</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                Today I tried to setup expo (expo router) with clerk and i did not work at all. I always get a Automatic publicPath is not supported in this browser, js engine: hermes error, even tough I am just ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-react-native t-expo t-clerk"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'react-native'"" aria-labelledby=""tag-react-native-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-react-native"" href=""/questions/tagged/react-native"" rel=""tag"" title=""show questions tagged 'react-native'"">react-native</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'expo'"" aria-labelledby=""tag-expo-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-expo"" href=""/questions/tagged/expo"" rel=""tag"" title=""show questions tagged 'expo'"">expo</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'clerk'"" aria-labelledby=""tag-clerk-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-clerk"" href=""/questions/tagged/clerk"" rel=""tag"" title=""show questions tagged 'clerk'"">clerk</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""15552665"" href=""/users/15552665/hinterberger-thomas""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""hinterberger-thomas's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/d9b259edf2ee7cc20b06df9f7172bf3c?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/15552665/hinterberger-thomas"">hinterberger-thomas</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">95</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:02:20Z"">4 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995432,"Automatic publicPath is not supported in this browser, js engine: hermes"
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995430"" data-post-type-id=""1"" id=""question-summary-76995430"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995430/client-apiexception-java-net-noroutetohostexception-no-route-to-host-host-unr"">client.ApiException: java.net.NoRouteToHostException: No route to host (Host unreachable) getting error while running java code</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                error image
+getting an error as in above image while tring to run application in intellij.
+I have one another service running on .default.8080 this is setup properly.
+not much I onlie found regarding ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-java t-intellij-idea t-dependencies t-connection t-application-settings"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'java'"" aria-labelledby=""tag-java-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-java"" href=""/questions/tagged/java"" rel=""tag"" title=""show questions tagged 'java'"">java</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'intellij-idea'"" aria-labelledby=""tag-intellij-idea-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-intellij-idea"" href=""/questions/tagged/intellij-idea"" rel=""tag"" title=""show questions tagged 'intellij-idea'"">intellij-idea</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dependencies'"" aria-labelledby=""tag-dependencies-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dependencies"" href=""/questions/tagged/dependencies"" rel=""tag"" title=""show questions tagged 'dependencies'"">dependencies</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'connection'"" aria-labelledby=""tag-connection-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-connection"" href=""/questions/tagged/connection"" rel=""tag"" title=""show questions tagged 'connection'"">connection</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'application-settings'"" aria-labelledby=""tag-application-settings-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-application-settings"" href=""/questions/tagged/application-settings"" rel=""tag"" title=""show questions tagged 'application-settings'"">application-settings</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461333"" href=""/users/22461333/onkar-suryawanshi""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""ONKAR SURYAWANSHI's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AAcHTtc0kdKktHfcwPlWr_8-qYR7hGxGfNr7LevtywO6z1FcSUbn=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461333/onkar-suryawanshi"">ONKAR SURYAWANSHI</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:02:06Z"">4 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995430,client.ApiException: java.net.NoRouteToHostException: No route to host (Host unreachable) getting error while running java code
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995429"" data-post-type-id=""1"" id=""question-summary-76995429"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995429/in-scala-3-dotty-or-scala-2-how-to-make-dependent-types-transitive"">In Scala 3 (dotty) or Scala 2, how to make dependent types transitive?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                Here is a simple example:
+  { // dependent type in function
+    def dep[B](a: Any, bs: Seq[B]): Seq[(a.type, B)] = {
+
+      val result: Seq[(a.type, B)] = bs.map { b =&gt;
+        (a: a.type) -&gt; (b:...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-scala t-dependent-type t-type-systems t-scala-3 t-dotty"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'scala'"" aria-labelledby=""tag-scala-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-scala"" href=""/questions/tagged/scala"" rel=""tag"" title=""show questions tagged 'scala'"">scala</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dependent-type'"" aria-labelledby=""tag-dependent-type-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dependent-type"" href=""/questions/tagged/dependent-type"" rel=""tag"" title=""show questions tagged 'dependent-type'"">dependent-type</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'type-systems'"" aria-labelledby=""tag-type-systems-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-type-systems"" href=""/questions/tagged/type-systems"" rel=""tag"" title=""show questions tagged 'type-systems'"">type-systems</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'scala-3'"" aria-labelledby=""tag-scala-3-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-scala-3"" href=""/questions/tagged/scala-3"" rel=""tag"" title=""show questions tagged 'scala-3'"">scala-3</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dotty'"" aria-labelledby=""tag-dotty-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dotty"" href=""/questions/tagged/dotty"" rel=""tag"" title=""show questions tagged 'dotty'"">dotty</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""1732418"" href=""/users/1732418/tribbloid""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""tribbloid's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/BJNjm.png?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/1732418/tribbloid"">tribbloid</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">4,326</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:02:05Z"">4 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995429,"In Scala 3 (dotty) or Scala 2, how to make dependent types transitive?"
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995428"" data-post-type-id=""1"" id=""question-summary-76995428"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""6 views"">
+<span class=""s-post-summary--stats-item-number"">6</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995428/custom-adapter-ng-bootstrap"">custom adapter ng bootstrap</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                i have a problem whit display the date in the variable selectedDate on ngmodel of my modal bootstrap, here the code html of modal:
+&lt;div class=""modal-header""&gt;
+    &lt;h4 class=""...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-angular t-bootstrap-datepicker t-ng-bootstrap-modal"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'angular'"" aria-labelledby=""tag-angular-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-angular"" href=""/questions/tagged/angular"" rel=""tag"" title=""show questions tagged 'angular'"">angular</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'bootstrap-datepicker'"" aria-labelledby=""tag-bootstrap-datepicker-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-bootstrap-datepicker"" href=""/questions/tagged/bootstrap-datepicker"" rel=""tag"" title=""show questions tagged 'bootstrap-datepicker'"">bootstrap-datepicker</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'ng-bootstrap-modal'"" aria-labelledby=""tag-ng-bootstrap-modal-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ng-bootstrap-modal"" href=""/questions/tagged/ng-bootstrap-modal"" rel=""tag"" title=""show questions tagged 'ng-bootstrap-modal'"">ng-bootstrap-modal</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22205233"" href=""/users/22205233/francesco-salemme""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Francesco Salemme's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AAcHTtf3gHDL0OJMZeYY8J9V2K7jo4cojp5xc-6-VxkYvwR9=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22205233/francesco-salemme"">Francesco Salemme</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:01:45Z"">4 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995428,custom adapter ng bootstrap
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995424"" data-post-type-id=""1"" id=""question-summary-76995424"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995424/copy-import-resource-from-one-statefile-to-another-statefile-terraform"">Copy / Import resource from one statefile to another statefile terraform</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm working on importing synthetics from one statefile to another.
+I am confused with a couple things here:
+should it be terraform move or terraform import.
+Also, how do we tell terraform that the ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-terraform t-datadog t-terraform-import"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'terraform'"" aria-labelledby=""tag-terraform-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-terraform"" href=""/questions/tagged/terraform"" rel=""tag"" title=""show questions tagged 'terraform'"">terraform</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'datadog'"" aria-labelledby=""tag-datadog-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-datadog"" href=""/questions/tagged/datadog"" rel=""tag"" title=""show questions tagged 'datadog'"">datadog</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'terraform-import'"" aria-labelledby=""tag-terraform-import-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-terraform-import"" href=""/questions/tagged/terraform-import"" rel=""tag"" title=""show questions tagged 'terraform-import'"">terraform-import</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""12253664"" href=""/users/12253664/shivrai""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Shivrai's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/a748185384d5566a812210da88bb652c?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/12253664/shivrai"">Shivrai</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">99</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:01:36Z"">5 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995424,Copy / Import resource from one statefile to another statefile terraform
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995423"" data-post-type-id=""1"" id=""question-summary-76995423"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995423/unable-to-launch-helm-command-in-ec2-instance"">Unable to launch helm command in EC2 instance</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                Environment: AWS EC2
+Verified I can run helm under generic ec2-user account, unable to get run it under individual users.
+My user account returns this error:
+WARNING: stat /home/$USER.config/helm/...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-amazon-ec2 t-kubernetes-helm t-amazon-eks"">
+<a class=""themed subcommunity-avatar subcommunity-aws s-avatar s-avatar__24 mr2 va-text-top js-community-tag d-inline-block mtn4 sm:mtn6 mb2"" data-controller=""s-tooltip"" href=""/collectives/aws"" style="""" title=""AWS Collective""></a>
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'amazon-ec2'"" aria-labelledby=""tag-amazon-ec2-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-amazon-ec2"" href=""/questions/tagged/amazon-ec2"" rel=""tag"" title=""show questions tagged 'amazon-ec2'""><img alt="""" class=""sponsor-tag-img"" height=""16"" src=""//i.stack.imgur.com/V8ZIY.png"" width=""18""/>amazon-ec2</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'kubernetes-helm'"" aria-labelledby=""tag-kubernetes-helm-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-kubernetes-helm"" href=""/questions/tagged/kubernetes-helm"" rel=""tag"" title=""show questions tagged 'kubernetes-helm'"">kubernetes-helm</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'amazon-eks'"" aria-labelledby=""tag-amazon-eks-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-amazon-eks"" href=""/questions/tagged/amazon-eks"" rel=""tag"" title=""show questions tagged 'amazon-eks'"">amazon-eks</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""11794445"" href=""/users/11794445/kohen-dubeau""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Kohen Dubeau's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh6.googleusercontent.com/-0xvdZ7awrlg/AAAAAAAAAAI/AAAAAAAAGR8/jBZkD0me3rQ/photo.jpg?sz=32"" width=""16"">
+</img></div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/11794445/kohen-dubeau"">Kohen Dubeau</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:01:33Z"">5 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995423,Unable to launch helm command in EC2 instance
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995421"" data-post-type-id=""1"" id=""question-summary-76995421"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995421/unable-to-load-shared-library-lib-lightgbm-or-one-of-its-dependencies-with-doc"">Unable to load shared library 'lib_lightgbm' or one of its dependencies with Docker and ML.NET</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I am using ML.NET to train and create models with different algorithms. When I test the method locally on windows it works fine But when I run it with Docker this error comes up:
+System....
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-ûnet t-docker t-dockerfile t-lightgbm t-mlûnet"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged '.net'"" aria-labelledby=""tag-.net-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ûnet"" href=""/questions/tagged/.net"" rel=""tag"" title=""show questions tagged '.net'"">.net</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'docker'"" aria-labelledby=""tag-docker-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-docker"" href=""/questions/tagged/docker"" rel=""tag"" title=""show questions tagged 'docker'"">docker</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dockerfile'"" aria-labelledby=""tag-dockerfile-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dockerfile"" href=""/questions/tagged/dockerfile"" rel=""tag"" title=""show questions tagged 'dockerfile'"">dockerfile</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'lightgbm'"" aria-labelledby=""tag-lightgbm-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-lightgbm"" href=""/questions/tagged/lightgbm"" rel=""tag"" title=""show questions tagged 'lightgbm'"">lightgbm</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'ml.net'"" aria-labelledby=""tag-ml.net-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-mlûnet"" href=""/questions/tagged/ml.net"" rel=""tag"" title=""show questions tagged 'ml.net'"">ml.net</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""15547290"" href=""/users/15547290/clayon-jo""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""clayon_jo's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/b651b009123e239a5ddffab226aa5043?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/15547290/clayon-jo"">clayon_jo</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">3</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:01:17Z"">5 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995421,Unable to load shared library 'lib_lightgbm' or one of its dependencies with Docker and ML.NET
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995419"" data-post-type-id=""1"" id=""question-summary-76995419"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995419/syntaxerror-unexpected-string-in-msw"">SyntaxError: Unexpected string in msw</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                Recently i started getting this error for mock service worker (msw) in my react project.
+Details:
+
+Node v16.19.1
+vite/3.2.6 linux-x64 node-v16.19.1
+react 18.2.0
+
+Checked google, github issues but no ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-reactjs t-mocking t-service-worker t-msw t-mswjs"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'reactjs'"" aria-labelledby=""tag-reactjs-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-reactjs"" href=""/questions/tagged/reactjs"" rel=""tag"" title=""show questions tagged 'reactjs'"">reactjs</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'mocking'"" aria-labelledby=""tag-mocking-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-mocking"" href=""/questions/tagged/mocking"" rel=""tag"" title=""show questions tagged 'mocking'"">mocking</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'service-worker'"" aria-labelledby=""tag-service-worker-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-service-worker"" href=""/questions/tagged/service-worker"" rel=""tag"" title=""show questions tagged 'service-worker'"">service-worker</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'msw'"" aria-labelledby=""tag-msw-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-msw"" href=""/questions/tagged/msw"" rel=""tag"" title=""show questions tagged 'msw'"">msw</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'mswjs'"" aria-labelledby=""tag-mswjs-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-mswjs"" href=""/questions/tagged/mswjs"" rel=""tag"" title=""show questions tagged 'mswjs'"">mswjs</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""8799471"" href=""/users/8799471/targhs""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""targhs's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh5.googleusercontent.com/-XNSLheh2oxg/AAAAAAAAAAI/AAAAAAAAAN0/KY7ibTMNrsY/photo.jpg?sz=32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/8799471/targhs"">targhs</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1,467</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:00:31Z"">6 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995419,SyntaxError: Unexpected string in msw
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995418"" data-post-type-id=""1"" id=""question-summary-76995418"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""8 views"">
+<span class=""s-post-summary--stats-item-number"">8</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995418/uncaught-in-promise-typeerror-cannot-read-properties-of-undefined-reading-a"">Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'action')</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm developing a Chrome extension that involves injecting content scripts, but I'm encountering an error that I can't resolve. The error message I'm getting is ""Uncaught TypeError: Cannot read ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-javascript t-html t-css t-google-chrome-extension t-fetch-api"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'javascript'"" aria-labelledby=""tag-javascript-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-javascript"" href=""/questions/tagged/javascript"" rel=""tag"" title=""show questions tagged 'javascript'"">javascript</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'html'"" aria-labelledby=""tag-html-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-html"" href=""/questions/tagged/html"" rel=""tag"" title=""show questions tagged 'html'"">html</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'css'"" aria-labelledby=""tag-css-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-css"" href=""/questions/tagged/css"" rel=""tag"" title=""show questions tagged 'css'"">css</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'google-chrome-extension'"" aria-labelledby=""tag-google-chrome-extension-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-google-chrome-extension"" href=""/questions/tagged/google-chrome-extension"" rel=""tag"" title=""show questions tagged 'google-chrome-extension'"">google-chrome-extension</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'fetch-api'"" aria-labelledby=""tag-fetch-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-fetch-api"" href=""/questions/tagged/fetch-api"" rel=""tag"" title=""show questions tagged 'fetch-api'"">fetch-api</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22460928"" href=""/users/22460928/reenu""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Reenu's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/c5ff7d6d08c363f79404638c31b67c13?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22460928/reenu"">Reenu</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 19:00:09Z"">6 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995418,Uncaught (in promise) TypeError: Cannot read properties of undefined (reading 'action')
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995417"" data-post-type-id=""1"" id=""question-summary-76995417"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of -1"">
+<span class=""s-post-summary--stats-item-number"">-1</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item has-answers"" title=""1 answer"">
+<span class=""s-post-summary--stats-item-number"">1</span>
+<span class=""s-post-summary--stats-item-unit"">answer</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""25 views"">
+<span class=""s-post-summary--stats-item-number"">25</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995417/equation-solving-python"">Equation solving python</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I want to find x in x=[(b+x)*c/d]-a or (a+x)/(b+x)=c/d where a,b,c,d are inputs from the user.(im a beginner and i just started learning python but i dont know how to solve and equation with it)
+`a,b,...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python t-equation"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python'"" aria-labelledby=""tag-python-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python"" href=""/questions/tagged/python"" rel=""tag"" title=""show questions tagged 'python'"">python</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'equation'"" aria-labelledby=""tag-equation-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-equation"" href=""/questions/tagged/equation"" rel=""tag"" title=""show questions tagged 'equation'"">equation</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""19472054"" href=""/users/19472054/xky18""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""xky18's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a-/AOh14GiGUffyi4O31MLgL7lqTWYE8-Li4wMiEkr2em87aA=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/19472054/xky18"">xky18</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">9</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:59:34Z"">7 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995417,Equation solving python
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995416"" data-post-type-id=""1"" id=""question-summary-76995416"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""11 views"">
+<span class=""s-post-summary--stats-item-number"">11</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995416/why-does-pandas-multiindex-slice-require-a-column-placeholder-when-selecting-all"">Why does Pandas MultiIndex slice require a column placeholder when selecting all values of the first index level?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                Consider this Pandas data frame with a MultiIndex:
+df = pd.DataFrame({'x': [1, 2, 3, 4]})
+arrays = [[1, 1, 2, 2], [False, True, False, True]]
+df.index = pd.MultiIndex.from_arrays(arrays, names=('grp', ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python t-pandas t-multi-index"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python'"" aria-labelledby=""tag-python-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python"" href=""/questions/tagged/python"" rel=""tag"" title=""show questions tagged 'python'"">python</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'pandas'"" aria-labelledby=""tag-pandas-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-pandas"" href=""/questions/tagged/pandas"" rel=""tag"" title=""show questions tagged 'pandas'"">pandas</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'multi-index'"" aria-labelledby=""tag-multi-index-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-multi-index"" href=""/questions/tagged/multi-index"" rel=""tag"" title=""show questions tagged 'multi-index'"">multi-index</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""2799941"" href=""/users/2799941/andrew-reece""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""andrew_reece's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/7696dd91223706207f4acc92d0f11419?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/2799941/andrew-reece"">andrew_reece</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score 20,338"">20.3k</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:59:34Z"">7 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995416,Why does Pandas MultiIndex slice require a column placeholder when selecting all values of the first index level?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995415"" data-post-type-id=""1"" id=""question-summary-76995415"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995415/read-and-write-to-mdb-file-on-os-other-than-windows"">Read and WRITE to MDB file on OS other than Windows</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I am using python to read and WRITE an MDB (Microsoft Access Database) file on Windows. This is currently working fine; however, I would now like to run my script on MacOS. Is this possible? The only ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-ms-access"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'ms-access'"" aria-labelledby=""tag-ms-access-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ms-access"" href=""/questions/tagged/ms-access"" rel=""tag"" title=""show questions tagged 'ms-access'"">ms-access</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""12954966"" href=""/users/12954966/cole""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Cole's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/92acb606108bc4db53769af7a93a490f?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/12954966/cole"">Cole</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">43</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:59:33Z"">7 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995415,Read and WRITE to MDB file on OS other than Windows
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995413"" data-post-type-id=""1"" id=""question-summary-76995413"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995413/dualshock-4-seems-to-hijack-autoswitch-unity-input-system-over-bluetooth-how-c"">DualShock 4 seems to hijack/autoswitch Unity Input System over bluetooth - how can I prevent this?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have recently been learning Unity and have chosen to use the ""new"" input system. It seems very powerful and I'm keen to use it, however using a DualShock 4 controller seems to brute force ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-unity-game-engine t-input"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'unity-game-engine'"" aria-labelledby=""tag-unity-game-engine-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-unity-game-engine"" href=""/questions/tagged/unity-game-engine"" rel=""tag"" title=""show questions tagged 'unity-game-engine'"">unity-game-engine</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'input'"" aria-labelledby=""tag-input-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-input"" href=""/questions/tagged/input"" rel=""tag"" title=""show questions tagged 'input'"">input</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461238"" href=""/users/22461238/fcol""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""fcol's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/6de6b6dd06cfeace25be1180acbad2e9?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461238/fcol"">fcol</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:59:07Z"">7 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995413,DualShock 4 seems to hijack/autoswitch Unity Input System over bluetooth - how can I prevent this?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995409"" data-post-type-id=""1"" id=""question-summary-76995409"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""2 views"">
+<span class=""s-post-summary--stats-item-number"">2</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995409/cant-use-vpnservice-protect-method-for-socket-io-package"">cant use VpnService protect method for socket.io package</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have a VPN service inside my application and I have also created a connection socket through the socket.io-client library, which I want to connect directly and not go through the vpn tunnel.
+I know ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-android t-kotlin t-websocket t-socketûio t-android-vpn-service"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'android'"" aria-labelledby=""tag-android-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-android"" href=""/questions/tagged/android"" rel=""tag"" title=""show questions tagged 'android'"">android</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'kotlin'"" aria-labelledby=""tag-kotlin-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-kotlin"" href=""/questions/tagged/kotlin"" rel=""tag"" title=""show questions tagged 'kotlin'"">kotlin</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'websocket'"" aria-labelledby=""tag-websocket-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-websocket"" href=""/questions/tagged/websocket"" rel=""tag"" title=""show questions tagged 'websocket'"">websocket</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'socket.io'"" aria-labelledby=""tag-socket.io-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-socketûio"" href=""/questions/tagged/socket.io"" rel=""tag"" title=""show questions tagged 'socket.io'"">socket.io</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'android-vpn-service'"" aria-labelledby=""tag-android-vpn-service-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-android-vpn-service"" href=""/questions/tagged/android-vpn-service"" rel=""tag"" title=""show questions tagged 'android-vpn-service'"">android-vpn-service</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""15361916"" href=""/users/15361916/fardin""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Fardin's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh6.googleusercontent.com/-fhZwnzrRbRc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclyzhEwLxiW5DfSor25ub5ERD1Z3g/s96-c/photo.jpg?sz=32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/15361916/fardin"">Fardin</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">21</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:58:25Z"">8 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995409,cant use VpnService protect method for socket.io package
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995408"" data-post-type-id=""1"" id=""question-summary-76995408"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of -2"">
+<span class=""s-post-summary--stats-item-number"">-2</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""11 views"">
+<span class=""s-post-summary--stats-item-number"">11</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995408/rounding-grading-system"">Rounding Grading system [closed]</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true
+enter image description here
+i have written the function but my code is running well for only 2 test cases. can I know where i ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-vector"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'vector'"" aria-labelledby=""tag-vector-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-vector"" href=""/questions/tagged/vector"" rel=""tag"" title=""show questions tagged 'vector'"">vector</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""18647296"" href=""/users/18647296/abhishek-kumar-sinha""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""ABHISHEK KUMAR SINHA's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a-/AOh14GguRo-ZzI0wkNRM3heZt_89qdI2URnV5aU-sAbgWDg=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/18647296/abhishek-kumar-sinha"">ABHISHEK KUMAR SINHA</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:58:23Z"">8 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995408,Rounding Grading system [closed]
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995404"" data-post-type-id=""1"" id=""question-summary-76995404"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of -1"">
+<span class=""s-post-summary--stats-item-number"">-1</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""9 views"">
+<span class=""s-post-summary--stats-item-number"">9</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995404/pygame-time-set-timer-confusion"">Pygame.time.set_timer confusion [duplicate]</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                hello so I have just recently started using pygame to try and make a flappy bird clone. I am trying to use pygame.time.set_timer to refresh the jump every so often, but when I try I still can't jump ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python t-loops t-pygame t-flappy-bird-clone t-pygame-clock"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python'"" aria-labelledby=""tag-python-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python"" href=""/questions/tagged/python"" rel=""tag"" title=""show questions tagged 'python'"">python</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'loops'"" aria-labelledby=""tag-loops-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-loops"" href=""/questions/tagged/loops"" rel=""tag"" title=""show questions tagged 'loops'"">loops</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'pygame'"" aria-labelledby=""tag-pygame-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-pygame"" href=""/questions/tagged/pygame"" rel=""tag"" title=""show questions tagged 'pygame'"">pygame</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'flappy-bird-clone'"" aria-labelledby=""tag-flappy-bird-clone-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-flappy-bird-clone"" href=""/questions/tagged/flappy-bird-clone"" rel=""tag"" title=""show questions tagged 'flappy-bird-clone'"">flappy-bird-clone</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'pygame-clock'"" aria-labelledby=""tag-pygame-clock-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-pygame-clock"" href=""/questions/tagged/pygame-clock"" rel=""tag"" title=""show questions tagged 'pygame-clock'"">pygame-clock</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22042986"" href=""/users/22042986/thecube541""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""TheCube541's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/WLm5S.png?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22042986/thecube541"">TheCube541</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:57:25Z"">9 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995404,Pygame.time.set_timer confusion [duplicate]
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995403"" data-post-type-id=""1"" id=""question-summary-76995403"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item has-answers"" title=""1 answer"">
+<span class=""s-post-summary--stats-item-number"">1</span>
+<span class=""s-post-summary--stats-item-unit"">answer</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""8 views"">
+<span class=""s-post-summary--stats-item-number"">8</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995403/cant-make-http-freeastrologyapi-com-api-request-in-react"">Can't make http://freeastrologyapi.com API request in React</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm trying to submit an API request based on the tutorial on FREE ASTROLOGY API , but it seems that because the request library is not maintained npm installing it breaks my 100 of my node files all ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-javascript t-reactjs t-api t-request"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'javascript'"" aria-labelledby=""tag-javascript-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-javascript"" href=""/questions/tagged/javascript"" rel=""tag"" title=""show questions tagged 'javascript'"">javascript</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'reactjs'"" aria-labelledby=""tag-reactjs-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-reactjs"" href=""/questions/tagged/reactjs"" rel=""tag"" title=""show questions tagged 'reactjs'"">reactjs</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'api'"" aria-labelledby=""tag-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-api"" href=""/questions/tagged/api"" rel=""tag"" title=""show questions tagged 'api'"">api</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'request'"" aria-labelledby=""tag-request-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-request"" href=""/questions/tagged/request"" rel=""tag"" title=""show questions tagged 'request'"">request</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""14862337"" href=""/users/14862337/angelinalevina""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""AngelinaLevina's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/7c74385e8bbdbab73f4179388320a35b?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/14862337/angelinalevina"">AngelinaLevina</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:57:18Z"">9 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995403,Can't make http://freeastrologyapi.com API request in React
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995402"" data-post-type-id=""1"" id=""question-summary-76995402"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""4 views"">
+<span class=""s-post-summary--stats-item-number"">4</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995402/importrange-error-loading-data-limit-of-600-shares-reached"">IMPORTRANGE Error Loading Data Limit of 600 shares reached</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                We have a master Google sheet that is updated a number of times a day with the list of our Contacts and other data from our CRM
+I have a number of different spreadsheets that use IMPORTRANGE to grab ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-google-sheets t-google-drive-api t-google-sheets-formula t-google-sheets-api"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'google-sheets'"" aria-labelledby=""tag-google-sheets-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-google-sheets"" href=""/questions/tagged/google-sheets"" rel=""tag"" title=""show questions tagged 'google-sheets'"">google-sheets</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'google-drive-api'"" aria-labelledby=""tag-google-drive-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-google-drive-api"" href=""/questions/tagged/google-drive-api"" rel=""tag"" title=""show questions tagged 'google-drive-api'"">google-drive-api</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'google-sheets-formula'"" aria-labelledby=""tag-google-sheets-formula-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-google-sheets-formula"" href=""/questions/tagged/google-sheets-formula"" rel=""tag"" title=""show questions tagged 'google-sheets-formula'"">google-sheets-formula</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'google-sheets-api'"" aria-labelledby=""tag-google-sheets-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-google-sheets-api"" href=""/questions/tagged/google-sheets-api"" rel=""tag"" title=""show questions tagged 'google-sheets-api'"">google-sheets-api</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461314"" href=""/users/22461314/alex-norton""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Alex Norton's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AAcHTtciLjNFI1rntI_Enhxkuh6n5Ecx0xB0yOP2U50gUOWh=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461314/alex-norton"">Alex Norton</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:57:15Z"">9 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995402,IMPORTRANGE Error Loading Data Limit of 600 shares reached
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995401"" data-post-type-id=""1"" id=""question-summary-76995401"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""4 views"">
+<span class=""s-post-summary--stats-item-number"">4</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995401/jwt-stored-in-cookie-but-cannot-find-in-browser-developer-tool"">jwt stored in cookie but cannot find in browser developer tool</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have no idea why it would not work
+I have been trying for entire day
+below is my login function
+    const loginUser = async (req,res) =&gt; {
+  try {
+    const { userName, password } = req.body;
+    ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-reactjs t-cookies t-jwt t-backend"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'reactjs'"" aria-labelledby=""tag-reactjs-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-reactjs"" href=""/questions/tagged/reactjs"" rel=""tag"" title=""show questions tagged 'reactjs'"">reactjs</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'cookies'"" aria-labelledby=""tag-cookies-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-cookies"" href=""/questions/tagged/cookies"" rel=""tag"" title=""show questions tagged 'cookies'"">cookies</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'jwt'"" aria-labelledby=""tag-jwt-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-jwt"" href=""/questions/tagged/jwt"" rel=""tag"" title=""show questions tagged 'jwt'"">jwt</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'backend'"" aria-labelledby=""tag-backend-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-backend"" href=""/questions/tagged/backend"" rel=""tag"" title=""show questions tagged 'backend'"">backend</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""21586330"" href=""/users/21586330/tsacarm""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""tsacarm's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/6c5e29ec56bbcb4463c2394d1cbac6fa?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/21586330/tsacarm"">tsacarm</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:57:07Z"">9 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995401,jwt stored in cookie but cannot find in browser developer tool
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995400"" data-post-type-id=""1"" id=""question-summary-76995400"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""7 views"">
+<span class=""s-post-summary--stats-item-number"">7</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995400/vue-defineemits-how-to-give-function-argument-the-type-of-an-emit-value"">Vue defineEmits: how to give function argument the type of an emit value</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                If I have defined emits:
+const emits = defineEmits(['click-button', 'toggle-menu']);
+
+Then I have a function which handles a click and takes a value which is the string that is going to be emitted:
+...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-typescript t-vuejs3"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'typescript'"" aria-labelledby=""tag-typescript-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-typescript"" href=""/questions/tagged/typescript"" rel=""tag"" title=""show questions tagged 'typescript'"">typescript</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'vuejs3'"" aria-labelledby=""tag-vuejs3-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-vuejs3"" href=""/questions/tagged/vuejs3"" rel=""tag"" title=""show questions tagged 'vuejs3'"">vuejs3</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""4245985"" href=""/users/4245985/galivan""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Galivan's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/vBl1E.jpg?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/4245985/galivan"">Galivan</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">4,820</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:56:33Z"">10 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995400,Vue defineEmits: how to give function argument the type of an emit value
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995399"" data-post-type-id=""1"" id=""question-summary-76995399"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""6 views"">
+<span class=""s-post-summary--stats-item-number"">6</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995399/maven-surefire-plugin-is-not-copying-jvm-options"">Maven Surefire plugin is not copying JVM Options</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I need to upgrade my app to JDK17
+However, after this upgrade, the tests fail with an error java.lang.reflect.InaccessibleObjectException: Unable to make protected native java.lang.Object java.lang....
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-java t-maven t-junit t-maven-surefire-plugin t-java-17"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'java'"" aria-labelledby=""tag-java-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-java"" href=""/questions/tagged/java"" rel=""tag"" title=""show questions tagged 'java'"">java</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'maven'"" aria-labelledby=""tag-maven-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-maven"" href=""/questions/tagged/maven"" rel=""tag"" title=""show questions tagged 'maven'"">maven</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'junit'"" aria-labelledby=""tag-junit-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-junit"" href=""/questions/tagged/junit"" rel=""tag"" title=""show questions tagged 'junit'"">junit</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'maven-surefire-plugin'"" aria-labelledby=""tag-maven-surefire-plugin-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-maven-surefire-plugin"" href=""/questions/tagged/maven-surefire-plugin"" rel=""tag"" title=""show questions tagged 'maven-surefire-plugin'"">maven-surefire-plugin</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'java-17'"" aria-labelledby=""tag-java-17-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-java-17"" href=""/questions/tagged/java-17"" rel=""tag"" title=""show questions tagged 'java-17'"">java-17</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""8507504"" href=""/users/8507504/jared""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Jared's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/f9ea4763d206be25975bcaa401c36a3e?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/8507504/jared"">Jared</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">73</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:55:43Z"">10 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995399,Maven Surefire plugin is not copying JVM Options
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995398"" data-post-type-id=""1"" id=""question-summary-76995398"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995398/flutter-path-access-exception-creation-failed-path-storage-emulated-0-homes"">Flutter path access exception creation failed, path = '/storage/emulated/0/HomeSchooling'</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I am try to save Pdf and it is on saving on android 10 but not on new android verions
+I have added these persmission in androidmanifest also
+
+    
+    
+and in application tag this
+android:...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-flutter t-permission-denied"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'flutter'"" aria-labelledby=""tag-flutter-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-flutter"" href=""/questions/tagged/flutter"" rel=""tag"" title=""show questions tagged 'flutter'"">flutter</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'permission-denied'"" aria-labelledby=""tag-permission-denied-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-permission-denied"" href=""/questions/tagged/permission-denied"" rel=""tag"" title=""show questions tagged 'permission-denied'"">permission-denied</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""19752002"" href=""/users/19752002/kamran-ibrahim""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Kamran Ibrahim's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/WYjP8.jpg?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/19752002/kamran-ibrahim"">Kamran Ibrahim</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">11</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:55:26Z"">11 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995398,"Flutter path access exception creation failed, path = '/storage/emulated/0/HomeSchooling'"
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995397"" data-post-type-id=""1"" id=""question-summary-76995397"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""13 views"">
+<span class=""s-post-summary--stats-item-number"">13</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995397/can-someone-help-me-with-this-error-on-compiling-docker-compose"">Can someone help me with this error on compiling docker-compose?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                So, I've got an angular application and I'm looking to put it in Docker. I'll show you the Dockerfile, docker-compose.yml, and nginx.conf codes.
+Dockerfile:
+FROM node:16.20.0
+
+WORKDIR /app
+
+COPY ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-docker t-docker-compose"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'docker'"" aria-labelledby=""tag-docker-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-docker"" href=""/questions/tagged/docker"" rel=""tag"" title=""show questions tagged 'docker'"">docker</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'docker-compose'"" aria-labelledby=""tag-docker-compose-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-docker-compose"" href=""/questions/tagged/docker-compose"" rel=""tag"" title=""show questions tagged 'docker-compose'"">docker-compose</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""21935530"" href=""/users/21935530/flavio-henrique""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Flavio Henrique's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AGNmyxZTbw2eQ29i7D3jRFn5YlYqmn9lDGp6CvSPI2Rpll0=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/21935530/flavio-henrique"">Flavio Henrique</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">15</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:54:48Z"">11 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995397,Can someone help me with this error on compiling docker-compose?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995396"" data-post-type-id=""1"" id=""question-summary-76995396"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""13 views"">
+<span class=""s-post-summary--stats-item-number"">13</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995396/why-does-my-ide-say-formlogin-and-exceptionhandling-is-deprecated"">Why does my IDE say .formLogin() .and() .exceptionHandling() is deprecated?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I had to upgrade the Java spring application from 11 to 19 so most of the code had the be changed because some things were deprecated. This includes the .antMatchers() being changed to ....
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-java t-spring"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'java'"" aria-labelledby=""tag-java-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-java"" href=""/questions/tagged/java"" rel=""tag"" title=""show questions tagged 'java'"">java</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'spring'"" aria-labelledby=""tag-spring-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-spring"" href=""/questions/tagged/spring"" rel=""tag"" title=""show questions tagged 'spring'"">spring</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""20975951"" href=""/users/20975951/jaiylon""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Jaiylon's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/adfed56a5ae4fca6cfeeff3871cb9d5c?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/20975951/jaiylon"">Jaiylon</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">47</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:54:43Z"">11 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995396,Why does my IDE say .formLogin() .and() .exceptionHandling() is deprecated?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995393"" data-post-type-id=""1"" id=""question-summary-76995393"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995393/increase-the-daily-limit-of-queries-while-not-being-a-business-owner"">Increase the Daily Limit of Queries while not being a Business Owner</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have wrote a script for google sheet with the help of Chat Gpt that helps me take track of the views, comments, title etc. of some specific Youtube videos on a google sheet. this code is written ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-youtube-api t-youtube-data-api"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'youtube-api'"" aria-labelledby=""tag-youtube-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-youtube-api"" href=""/questions/tagged/youtube-api"" rel=""tag"" title=""show questions tagged 'youtube-api'"">youtube-api</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'youtube-data-api'"" aria-labelledby=""tag-youtube-data-api-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-youtube-data-api"" href=""/questions/tagged/youtube-data-api"" rel=""tag"" title=""show questions tagged 'youtube-data-api'"">youtube-data-api</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461365"" href=""/users/22461365/tommy-m""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Tommy M's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AAcHTtczj9lvAoe79ml81ZgGco8cdTOCNTjNFEvBVWlEs5iL=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461365/tommy-m"">Tommy M</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:54:27Z"">12 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995393,Increase the Daily Limit of Queries while not being a Business Owner
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995390"" data-post-type-id=""1"" id=""question-summary-76995390"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995390/video-and-mp3-download"">video and mp3 download</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I am editing videos for my YouTube channel by downloading and converting videos in MP3 and MP4 formats. I can't find a good website for downloading. Either the download is very slow, the website is ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-video t-download t-converters"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'video'"" aria-labelledby=""tag-video-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-video"" href=""/questions/tagged/video"" rel=""tag"" title=""show questions tagged 'video'"">video</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'download'"" aria-labelledby=""tag-download-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-download"" href=""/questions/tagged/download"" rel=""tag"" title=""show questions tagged 'download'"">download</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'converters'"" aria-labelledby=""tag-converters-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-converters"" href=""/questions/tagged/converters"" rel=""tag"" title=""show questions tagged 'converters'"">converters</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22344908"" href=""/users/22344908/richmanx""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""richmanx's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/bf87fbaa1ed528fc9812d25cd6bae66a?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22344908/richmanx"">richmanx</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:53:51Z"">12 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995390,video and mp3 download
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995387"" data-post-type-id=""1"" id=""question-summary-76995387"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""4 views"">
+<span class=""s-post-summary--stats-item-number"">4</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995387/no-mvc-5-partial-page-razor-in-add"">No MVC 5 Partial Page (Razor) in Add &gt;</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm supposed to add an MVC 5 Partial Page (Razor) to my project, I must do this to create a view called LatestTweets.cs.html. When I right-click on Partials &gt; Add &gt; I cannot see any MVC 5 Pages.
+...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-model-view-controller"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'model-view-controller'"" aria-labelledby=""tag-model-view-controller-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-model-view-controller"" href=""/questions/tagged/model-view-controller"" rel=""tag"" title=""show questions tagged 'model-view-controller'"">model-view-controller</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""20833030"" href=""/users/20833030/training-1986""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""training_1986's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/e82b9b6b57634986d1f08fdb7dead198?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/20833030/training-1986"">training_1986</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">23</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:53:28Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995387,No MVC 5 Partial Page (Razor) in Add >
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995385"" data-post-type-id=""1"" id=""question-summary-76995385"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of -1"">
+<span class=""s-post-summary--stats-item-number"">-1</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""9 views"">
+<span class=""s-post-summary--stats-item-number"">9</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995385/how-to-fit-a-curve-to-a-sinus-function"">how to fit a curve to a sinus function</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm trying to identify a point reading with a sinusoidal function.
+You can see on the image that the result is not satisfactory.
+I can't manage to adjust the various parameters of curve fit to adjust ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python-3ûx t-matplotlib t-curve-fitting t-scipy-optimize"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python-3.x'"" aria-labelledby=""tag-python-3.x-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python-3ûx"" href=""/questions/tagged/python-3.x"" rel=""tag"" title=""show questions tagged 'python-3.x'"">python-3.x</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'matplotlib'"" aria-labelledby=""tag-matplotlib-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-matplotlib"" href=""/questions/tagged/matplotlib"" rel=""tag"" title=""show questions tagged 'matplotlib'"">matplotlib</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'curve-fitting'"" aria-labelledby=""tag-curve-fitting-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-curve-fitting"" href=""/questions/tagged/curve-fitting"" rel=""tag"" title=""show questions tagged 'curve-fitting'"">curve-fitting</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'scipy-optimize'"" aria-labelledby=""tag-scipy-optimize-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-scipy-optimize"" href=""/questions/tagged/scipy-optimize"" rel=""tag"" title=""show questions tagged 'scipy-optimize'"">scipy-optimize</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""4706999"" href=""/users/4706999/rpapa""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""rpapa's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/b5175aee24e09e0599be550faaea6de4?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/4706999/rpapa"">rpapa</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">97</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:53:10Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995385,how to fit a curve to a sinus function
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995384"" data-post-type-id=""1"" id=""question-summary-76995384"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""32 views"">
+<span class=""s-post-summary--stats-item-number"">32</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995384/what-are-the-benefits-of-enforcing-c-461-initial-value-of-reference-to-non-c"">What are the benefits of enforcing C++ 461? [initial value of reference to non-const must be an lvalue] [duplicate]</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                void inc(int &amp;n) {
+    n++;
+}
+
+Consider the above function. If I were to call it with an rvalue, C++ would shout at me. For example inc(1).
+It seems perfectly reasonable for the standard to have ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-cçç t-rust t-standards"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'c++'"" aria-labelledby=""tag-c++-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-cçç"" href=""/questions/tagged/c%2b%2b"" rel=""tag"" title=""show questions tagged 'c++'"">c++</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'rust'"" aria-labelledby=""tag-rust-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-rust"" href=""/questions/tagged/rust"" rel=""tag"" title=""show questions tagged 'rust'"">rust</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'standards'"" aria-labelledby=""tag-standards-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-standards"" href=""/questions/tagged/standards"" rel=""tag"" title=""show questions tagged 'standards'"">standards</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar js-user-hover-target"" data-user-id=""12155405"" href=""/users/12155405/doliphin""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""doliphin's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/XcPj1.png?s=32&amp;g=1"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/12155405/doliphin"">doliphin</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">752</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:53:10Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995384,What are the benefits of enforcing C++ 461? [initial value of reference to non-const must be an lvalue] [duplicate]
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995382"" data-post-type-id=""1"" id=""question-summary-76995382"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""6 views"">
+<span class=""s-post-summary--stats-item-number"">6</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995382/403-error-when-trying-to-deploy-a-s3-policy-using-terraform"">403 Error when trying to deploy a S3 policy using terraform</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I am trying to deploy a static website using an S3 bucket with Terraform.
+Therefore I need to use the a aws_s3_bucket_policy resource:
+resource ""aws_s3_bucket_policy"" ""bucket"" {
+  ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-amazon-web-services t-amazon-s3 t-terraform t-terraform-provider-aws"">
+<a class=""themed subcommunity-avatar subcommunity-aws s-avatar s-avatar__24 mr2 va-text-top js-community-tag d-inline-block mtn4 sm:mtn6 mb2"" data-controller=""s-tooltip"" href=""/collectives/aws"" style="""" title=""AWS Collective""></a>
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'amazon-web-services'"" aria-labelledby=""tag-amazon-web-services-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-amazon-web-services"" href=""/questions/tagged/amazon-web-services"" rel=""tag"" title=""show questions tagged 'amazon-web-services'""><img alt="""" class=""sponsor-tag-img"" height=""16"" src=""//i.stack.imgur.com/V8ZIY.png"" width=""18""/>amazon-web-services</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'amazon-s3'"" aria-labelledby=""tag-amazon-s3-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-amazon-s3"" href=""/questions/tagged/amazon-s3"" rel=""tag"" title=""show questions tagged 'amazon-s3'""><img alt="""" class=""sponsor-tag-img"" height=""16"" src=""//i.stack.imgur.com/V8ZIY.png"" width=""18""/>amazon-s3</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'terraform'"" aria-labelledby=""tag-terraform-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-terraform"" href=""/questions/tagged/terraform"" rel=""tag"" title=""show questions tagged 'terraform'"">terraform</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'terraform-provider-aws'"" aria-labelledby=""tag-terraform-provider-aws-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-terraform-provider-aws"" href=""/questions/tagged/terraform-provider-aws"" rel=""tag"" title=""show questions tagged 'terraform-provider-aws'"">terraform-provider-aws</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""6419338"" href=""/users/6419338/linde-98""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Linde_98's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://i.stack.imgur.com/kEkJa.jpg?s=32&amp;g=1"" width=""16"">
+</img></div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/6419338/linde-98"">Linde_98</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">412</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:57Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995382,403 Error when trying to deploy a S3 policy using terraform
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995381"" data-post-type-id=""1"" id=""question-summary-76995381"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995381/how-to-cache-only-a-specific-folder-in-s3"">How to cache only a specific folder in S3?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have an S3 bucket for my single page application, and all assets stored in the assets folder should be cached for one year, since they have unique filenames based on their hashed contents.
+However, ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-amazon-web-services t-amazon-s3 t-caching t-single-page-application"">
+<a class=""themed subcommunity-avatar subcommunity-aws s-avatar s-avatar__24 mr2 va-text-top js-community-tag d-inline-block mtn4 sm:mtn6 mb2"" data-controller=""s-tooltip"" href=""/collectives/aws"" style="""" title=""AWS Collective""></a>
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'amazon-web-services'"" aria-labelledby=""tag-amazon-web-services-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-amazon-web-services"" href=""/questions/tagged/amazon-web-services"" rel=""tag"" title=""show questions tagged 'amazon-web-services'""><img alt="""" class=""sponsor-tag-img"" height=""16"" src=""//i.stack.imgur.com/V8ZIY.png"" width=""18""/>amazon-web-services</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'amazon-s3'"" aria-labelledby=""tag-amazon-s3-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-amazon-s3"" href=""/questions/tagged/amazon-s3"" rel=""tag"" title=""show questions tagged 'amazon-s3'""><img alt="""" class=""sponsor-tag-img"" height=""16"" src=""//i.stack.imgur.com/V8ZIY.png"" width=""18""/>amazon-s3</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'caching'"" aria-labelledby=""tag-caching-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-caching"" href=""/questions/tagged/caching"" rel=""tag"" title=""show questions tagged 'caching'"">caching</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'single-page-application'"" aria-labelledby=""tag-single-page-application-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-single-page-application"" href=""/questions/tagged/single-page-application"" rel=""tag"" title=""show questions tagged 'single-page-application'"">single-page-application</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""636065"" href=""/users/636065/john-smith""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""John Smith's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/a677c3275d31858234eef8d0bc703eef?s=32&amp;d=identicon&amp;r=PG"" width=""16"">
+</img></div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/636065/john-smith"">John Smith</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">8,560</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:55Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995381,How to cache only a specific folder in S3?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995380"" data-post-type-id=""1"" id=""question-summary-76995380"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995380/dearpygui-stacked-bar-chart-not-supported"">Dearpygui - Stacked bar chart not supported</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I cant find in docs support for Bar stacked plot. I found out though that its possible to overrender bars, which requires each subsequent bar to increment previous series... Isnt there some more ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-python t-visualization t-stacked-bar-chart t-dearpygui"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'python'"" aria-labelledby=""tag-python-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-python"" href=""/questions/tagged/python"" rel=""tag"" title=""show questions tagged 'python'"">python</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'visualization'"" aria-labelledby=""tag-visualization-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-visualization"" href=""/questions/tagged/visualization"" rel=""tag"" title=""show questions tagged 'visualization'"">visualization</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'stacked-bar-chart'"" aria-labelledby=""tag-stacked-bar-chart-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-stacked-bar-chart"" href=""/questions/tagged/stacked-bar-chart"" rel=""tag"" title=""show questions tagged 'stacked-bar-chart'"">stacked-bar-chart</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dearpygui'"" aria-labelledby=""tag-dearpygui-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dearpygui"" href=""/questions/tagged/dearpygui"" rel=""tag"" title=""show questions tagged 'dearpygui'"">dearpygui</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""6688801"" href=""/users/6688801/martin""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Martin's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/42ec2f3cb819c3c7d3d84f5c0ef1ead5?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16"">
+</img></div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/6688801/martin"">Martin</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">3,333</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:44Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995380,Dearpygui - Stacked bar chart not supported
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995379"" data-post-type-id=""1"" id=""question-summary-76995379"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""3 views"">
+<span class=""s-post-summary--stats-item-number"">3</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995379/how-to-resize-an-svg-in-react-and-keep-it-compatible-with-a-framermotion-div"">How to resize an SVG in React and keep it compatible with a FramerMotion div?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm new to React and the title summarizes my problem. I'll attach my code below.
+import { motion } from 'framer-motion';
+import { ReactComponent as TestCard } from '../assets/deckofcards/10c.svg'
+
+...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-reactjs t-framer-motion"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'reactjs'"" aria-labelledby=""tag-reactjs-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-reactjs"" href=""/questions/tagged/reactjs"" rel=""tag"" title=""show questions tagged 'reactjs'"">reactjs</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'framer-motion'"" aria-labelledby=""tag-framer-motion-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-framer-motion"" href=""/questions/tagged/framer-motion"" rel=""tag"" title=""show questions tagged 'framer-motion'"">framer-motion</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461362"" href=""/users/22461362/iangross7""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""iangross7's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/2b42e94c37561dc843c83021e120642f?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16"">
+</img></div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461362/iangross7"">iangross7</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:42Z"">13 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995379,How to resize an SVG in React and keep it compatible with a FramerMotion div?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995377"" data-post-type-id=""1"" id=""question-summary-76995377"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""4 views"">
+<span class=""s-post-summary--stats-item-number"">4</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995377/export-%c9%b5%c9%b5factorytarget-imported-as-i0-was-not-found-in-angular-core"">""export 'ɵɵFactoryTarget' (imported as 'i0') was not found in '@angular/core'</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have a project @Next angular, After npm install, when we have to run ng serve the project then we are facing the below error.  I just can't figure out why this is happening. Can you please help and ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-angular"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'angular'"" aria-labelledby=""tag-angular-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-angular"" href=""/questions/tagged/angular"" rel=""tag"" title=""show questions tagged 'angular'"">angular</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""17825271"" href=""/users/17825271/salman-khan""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Salman Khan's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/6e19840d3e7c1d83dee29795fe96264f?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/17825271/salman-khan"">Salman Khan</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">47</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:17Z"">14 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995377,"""export 'ɵɵFactoryTarget' (imported as 'i0') was not found in '@angular/core'"
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995376"" data-post-type-id=""1"" id=""question-summary-76995376"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995376/how-to-properly-show-alertbox-in-flutter-using-bloc"">How to properly show alertbox in flutter using bloc?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm trying to learn bloc and I want to show an alertbox if the credentials are not valid. Im getting the state to the ui. But the alert box is not popping up.
+The code is as follows.
+bloc
+class ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-flutter t-dart t-bloc t-state-management t-flutter-bloc"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'flutter'"" aria-labelledby=""tag-flutter-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-flutter"" href=""/questions/tagged/flutter"" rel=""tag"" title=""show questions tagged 'flutter'"">flutter</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'dart'"" aria-labelledby=""tag-dart-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-dart"" href=""/questions/tagged/dart"" rel=""tag"" title=""show questions tagged 'dart'"">dart</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'bloc'"" aria-labelledby=""tag-bloc-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-bloc"" href=""/questions/tagged/bloc"" rel=""tag"" title=""show questions tagged 'bloc'"">bloc</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'state-management'"" aria-labelledby=""tag-state-management-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-state-management"" href=""/questions/tagged/state-management"" rel=""tag"" title=""show questions tagged 'state-management'"">state-management</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'flutter-bloc'"" aria-labelledby=""tag-flutter-bloc-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-flutter-bloc"" href=""/questions/tagged/flutter-bloc"" rel=""tag"" title=""show questions tagged 'flutter-bloc'"">flutter-bloc</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""13362666"" href=""/users/13362666/febin-johnson""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Febin Johnson's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/0c82124c549094b0ca689b40d49d6a9f?s=32&amp;d=identicon&amp;r=PG&amp;f=y&amp;so-version=2"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/13362666/febin-johnson"">Febin Johnson</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">275</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:13Z"">14 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995376,How to properly show alertbox in flutter using bloc?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995375"" data-post-type-id=""1"" id=""question-summary-76995375"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""9 views"">
+<span class=""s-post-summary--stats-item-number"">9</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995375/i-have-an-error-in-r-on-a-simple-ggplot-saying-aesthetics-are-not-the-right-leng"">I have an error in R on a simple ggplot saying aesthetics are not the right length?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I am going crazy over this error! I am just trying to create a simple plot with this code:
+plot &lt;- ggplot(data= omitna)+
+  geom_point(aes(x=Flux, y=averageUCO2_3hr))
+
+And I receive this error:
+...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-r t-error-handling"">
+<a class=""themed subcommunity-topic-avatar subcommunity-topic-r-language s-avatar s-avatar__24 mr2 va-text-top js-community-tag d-inline-block mtn4 sm:mtn6 mb2"" data-controller=""s-tooltip"" href=""/collectives/r-language"" style="""" title=""R Language Collective""></a>
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'r'"" aria-labelledby=""tag-r-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-r"" href=""/questions/tagged/r"" rel=""tag"" title=""show questions tagged 'r'"">r</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'error-handling'"" aria-labelledby=""tag-error-handling-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-error-handling"" href=""/questions/tagged/error-handling"" rel=""tag"" title=""show questions tagged 'error-handling'"">error-handling</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461292"" href=""/users/22461292/macall-hock""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Macall Hock's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AAcHTtdymO4lj4VKb5PiyXDQKCwMo76BP5-TAuoVjcgPXioGKNc=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461292/macall-hock"">Macall Hock</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:52:07Z"">14 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995375,I have an error in R on a simple ggplot saying aesthetics are not the right length?
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995373"" data-post-type-id=""1"" id=""question-summary-76995373"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item has-answers"" title=""1 answer"">
+<span class=""s-post-summary--stats-item-number"">1</span>
+<span class=""s-post-summary--stats-item-unit"">answer</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""6 views"">
+<span class=""s-post-summary--stats-item-number"">6</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995373/error-when-using-mlflow-on-ipv6-is-not-a-valid-port-number"">error when using mlflow on ipv6: '' is not a valid port number</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I'm trying to deploy MLFlow server on Kubernetes, which requires using IPv6. Previously I was successfully using it in an IPv4 environment.
+In my existing deployment on IPv4, I use this startup ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-kubernetes t-gunicorn t-ipv6 t-mlflow"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'kubernetes'"" aria-labelledby=""tag-kubernetes-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-kubernetes"" href=""/questions/tagged/kubernetes"" rel=""tag"" title=""show questions tagged 'kubernetes'"">kubernetes</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'gunicorn'"" aria-labelledby=""tag-gunicorn-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-gunicorn"" href=""/questions/tagged/gunicorn"" rel=""tag"" title=""show questions tagged 'gunicorn'"">gunicorn</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'ipv6'"" aria-labelledby=""tag-ipv6-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ipv6"" href=""/questions/tagged/ipv6"" rel=""tag"" title=""show questions tagged 'ipv6'"">ipv6</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'mlflow'"" aria-labelledby=""tag-mlflow-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-mlflow"" href=""/questions/tagged/mlflow"" rel=""tag"" title=""show questions tagged 'mlflow'"">mlflow</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""6016014"" href=""/users/6016014/nnn""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""nnn's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://www.gravatar.com/avatar/ea5c3769b5d3abbf462aef1d9612b7c4?s=32&amp;d=identicon&amp;r=PG"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/6016014/nnn"">nnn</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:51:45Z"">14 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995373,error when using mlflow on ipv6: '' is not a valid port number
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995370"" data-post-type-id=""1"" id=""question-summary-76995370"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""6 views"">
+<span class=""s-post-summary--stats-item-number"">6</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995370/how-to-do-paging-with-grouping-mongodb"">How to do paging with grouping mongodb</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                is there a way to create paging with grouping in Mongo?
+trying to do it in a generic way to make a common pager, so ideally, it should be possible to define an expression or rule for grouping outside ...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-cñ t-ûnet t-mongodb t-ûnet-core t-mongodb-query"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'c#'"" aria-labelledby=""tag-c#-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-cñ"" href=""/questions/tagged/c%23"" rel=""tag"" title=""show questions tagged 'c#'"">c#</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged '.net'"" aria-labelledby=""tag-.net-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ûnet"" href=""/questions/tagged/.net"" rel=""tag"" title=""show questions tagged '.net'"">.net</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'mongodb'"" aria-labelledby=""tag-mongodb-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-mongodb"" href=""/questions/tagged/mongodb"" rel=""tag"" title=""show questions tagged 'mongodb'"">mongodb</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged '.net-core'"" aria-labelledby=""tag-.net-core-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-ûnet-core"" href=""/questions/tagged/.net-core"" rel=""tag"" title=""show questions tagged '.net-core'"">.net-core</a></li><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'mongodb-query'"" aria-labelledby=""tag-mongodb-query-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-mongodb-query"" href=""/questions/tagged/mongodb-query"" rel=""tag"" title=""show questions tagged 'mongodb-query'"">mongodb-query</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""22461216"" href=""/users/22461216/oleg-lysovych""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Oleg Lysovych's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a/AAcHTteeKCnG3J2Por7a4HYnQ3NKjgrlHRIN5rkjlrSZmb2HHyk=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/22461216/oleg-lysovych"">Oleg Lysovych</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">1</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:50:28Z"">16 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995370,How to do paging with grouping mongodb
+"<bound method Tag.index of <div class=""s-post-summary js-post-summary"" data-post-id=""76995367"" data-post-type-id=""1"" id=""question-summary-76995367"">
+<div class=""s-post-summary--stats js-post-summary-stats"">
+<div class=""s-post-summary--stats-item s-post-summary--stats-item__emphasized"" title=""Score of 0"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">votes</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""0 answers"">
+<span class=""s-post-summary--stats-item-number"">0</span>
+<span class=""s-post-summary--stats-item-unit"">answers</span>
+</div>
+<div class=""s-post-summary--stats-item"" title=""5 views"">
+<span class=""s-post-summary--stats-item-number"">5</span>
+<span class=""s-post-summary--stats-item-unit"">views</span>
+</div>
+</div>
+<div class=""s-post-summary--content"">
+<h3 class=""s-post-summary--content-title"">
+<a class=""s-link"" href=""/questions/76995367/how-can-i-calculate-difference-between-number-value-and-current-time-in-sql"">How can I calculate difference between number value and current time in SQL?</a>
+</h3>
+<div class=""s-post-summary--content-excerpt"">
+                I have old design number datatype column used to save arrival time and I converted the values in the
+column to be like time format using this query :
+    SELECT (TO_CHAR(TO_DATE(LPAD(TO_CHAR(...
+            </div>
+<div class=""s-post-summary--meta"">
+<div class=""s-post-summary--meta-tags d-inline-block tags js-tags t-oracle"">
+<ul class=""ml0 list-ls-none js-post-tag-list-wrapper d-inline""><li class=""d-inline mr4 js-post-tag-list-item""><a aria-label=""show questions tagged 'oracle'"" aria-labelledby=""tag-oracle-tooltip-container"" class=""post-tag flex--item mt0 js-tagname-oracle"" href=""/questions/tagged/oracle"" rel=""tag"" title=""show questions tagged 'oracle'"">oracle</a></li></ul>
+</div>
+<div aria-live=""polite"" class=""s-user-card s-user-card__minimal"">
+<a class=""s-avatar s-avatar__16 s-user-card--avatar"" data-user-id=""14008146"" href=""/users/14008146/ziad-adnan""> <div class=""gravatar-wrapper-16"">
+<img ,="""" alt=""Ziad Adnan's user avatar"" class=""s-avatar--image"" height=""16"" src=""https://lh3.googleusercontent.com/a-/AOh14Gh6T4krZOUPNanABLUbJtELuUpt99h_7l6qSt3c=k-s32"" width=""16""/>
+</div>
+</a>
+<div class=""s-user-card--info"">
+<div class=""s-user-card--link d-flex gs4"">
+<a class=""flex--item"" href=""/users/14008146/ziad-adnan"">Ziad Adnan</a>
+</div>
+<ul class=""s-user-card--awards"">
+<li class=""s-user-card--rep""><span class=""todo-no-class-here"" dir=""ltr"" title=""reputation score "">710</span></li>
+</ul>
+</div>
+<time class=""s-user-card--time"">asked <span class=""relativetime"" title=""2023-08-28 18:49:20Z"">17 mins ago</span></time>
+</div>
+</div>
+</div>
+</div>>",question-summary-76995367,How can I calculate difference between number value and current time in SQL?
